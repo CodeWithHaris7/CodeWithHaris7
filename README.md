@@ -1,5 +1,7 @@
 <img width="auto" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ">
-https://camo.githubusercontent.com/3065d2772ce3de7bea208b3ad009d0a35322079c7d0bf3b17e6f44639143d911/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d57656c636f6d65253230746f2532307468652532304e6577253230576f726c642532306f66253230434f44494e472663656e7465723d747275652677696474683d353030266865696768743d3530
+<p align="center">
+    <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="coding-gif-haris"/>
+</p>
 <h1 align="center">Hey Welcome, I'm Haris Khan </h1>
 <h3 align="center">A passionate Full Stack Developer and IT Specialist From Pakistan, Owner Of CodeWithHaris7</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
