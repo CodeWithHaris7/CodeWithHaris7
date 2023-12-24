@@ -1,4 +1,4 @@
-<img width="2000px" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJPTCIIOLSBDWHX3CXYZMIAHZQ">
+<img width="2000px" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/project-euler-problem-28/main/banner.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING&center=true&width=500&height=50">
 </p>
