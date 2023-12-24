@@ -1,4 +1,4 @@
-<img align="top-center" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ">
+<img align="center" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20the%20New%20World%20of%20CODING&center=true&width=500&height=50">
 </p>
