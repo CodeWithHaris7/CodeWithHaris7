@@ -1,4 +1,4 @@
-<img width="2000" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ">
+<img width="auto" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ">
 
 <h1 align="center">Hey Welcome, I'm Haris Khan </h1>
 <h3 align="center">A passionate Full Stack Developer and IT Specialist From Pakistan, Owner Of CodeWithHaris7</h3>
