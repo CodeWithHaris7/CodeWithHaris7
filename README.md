@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Bachelor of science in Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://codewithharis7.github.io/FastFoodSwat/](https://codewithharis7.github.io/FastFoodSwat/)
+- 👨‍💻 All of my projects are available at [https://github.com/CodeWithHaris7](https://codewithharis7.github.io/FastFoodSwat/)
 
 - 💬 Ask me about **Python, etc**
 
