@@ -1,4 +1,4 @@
-
+<p>
     <img src="https://raw.githubusercontent.com/CodeWithHaris7/codewithkhan/main/banner.gif?token=GHSAT0AAAAAACL7JGJOJQ22QOA6IWIQVDVGZMH7YWQ" alt="coding-gif-haris"/>
 </p>
 <p align="center">
