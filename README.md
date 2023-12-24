@@ -1,25 +1,5 @@
-<img width="1500" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/CodeWithHaris7/main/banner.gif">
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 500 50'
-    style='background-color: #00000000;'
-    width='500px' height='50px'>
+<img width="2000" alt="coding" src="https://raw.githubusercontent.com/CodeWithHaris7/CodeWithHaris7/main/banner.gif">
 
-    
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#36BCF7' font-size='20'
-        dominant-baseline='auto'
-        x='50%' text-anchor='middle'>
-        <textPath xlink:href='#path0'>
-            Welcome to the New World of CODING
-        </textPath>
-    </text>
-</svg>
 <h1 align="center">Hey Welcome, I'm Haris Khan </h1>
 <h3 align="center">A passionate Full Stack Developer and IT Specialist From Pakistan, Owner Of CodeWithHaris7</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
